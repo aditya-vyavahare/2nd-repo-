@@ -1,2 +1,3 @@
 # 2nd-repo-
-practice purpose 
+this is my first git repository
+author - Aditya vyavahare
